@@ -1,0 +1,290 @@
+commit aea8b5646bf8f31a76cf9baf135c7d863348ae25
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Thu Oct 25 22:44:35 2018 -0400
+
+    Finished
+
+commit f9c9561c50c271ac2e3464d31406932ac61ab0c9
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Thu Oct 25 22:24:55 2018 -0400
+
+    pre valgrind
+
+commit b36e28b5a83f1ce8890e2f782f2f14d12819b7c6
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Thu Oct 25 22:04:48 2018 -0400
+
+    temp into img in blur
+
+commit 280b29e2cfec8cfaafef7c0a8feed1e6a872e187
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Thu Oct 25 22:00:39 2018 -0400
+
+    helper function weight
+
+commit 770dfe5be34ce2b343609c4b39f30979d8fdc4e9
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Thu Oct 25 21:46:17 2018 -0400
+
+    zoom in finished, blur started
+
+commit 5cb453a17234d4b244a418bcc0fb34c8f6eb9fa0
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Thu Oct 25 21:41:44 2018 -0400
+
+    manip h file sq
+
+commit ca3336012fb659b376dc3febe111a1d36b6fab3d
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Thu Oct 25 21:22:27 2018 -0400
+
+    manip h file weight
+
+commit 81883d117cd786f0f34c96a7d4841ad573a2faee
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Thu Oct 25 21:07:15 2018 -0400
+
+    manip h file
+
+commit b58b01a3572f35b3567e6f8d8d1e0bba95e92cd0
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Thu Oct 25 20:22:43 2018 -0400
+
+    Added error messages
+
+commit 910c4f627ec25818eac7792b1191654d17efb1db
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Thu Oct 25 19:11:38 2018 -0400
+
+    Started blur, tried to fix zoom in
+
+commit 2a8e27f8af805020c189453b81719a8df700c5bc
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Thu Oct 25 17:37:16 2018 -0400
+
+    fixed occlude
+
+commit 2f9f0a5cd40585201f2d0902d2746aa580d346b7
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Thu Oct 25 13:54:46 2018 -0400
+
+    fixed functions with sara
+
+commit 9e04854d73276f70eb136c63e23afd67d0c66143
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Thu Oct 25 02:01:06 2018 -0400
+
+    added check print statements
+
+commit b4bc4ef2052710bcc11d3ce7a69a30e78d0bc5b9
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Thu Oct 25 01:47:55 2018 -0400
+
+    added bool
+
+commit bedd8883ff27dadc2e3ab8b04dd0664d320845d3
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Thu Oct 25 01:45:20 2018 -0400
+
+    occlude adjustment
+
+commit c8f18f0dbc4fe66dbbd2d1315a23eed3b2dc74b9
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Thu Oct 25 01:41:10 2018 -0400
+
+    attempt imageManip fix
+
+commit b365337af0da7a70a2f52ed9735e356c0f4da040
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Thu Oct 25 01:09:29 2018 -0400
+
+    swap fix tried
+
+commit 83ea8b56453479df77605a70fe4af8aedc739e17
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Thu Oct 25 00:50:14 2018 -0400
+
+    zoom in realloc
+
+commit c0c71672a2e389d45a9d18d9e21adb9d5e7b266a
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Thu Oct 25 00:41:39 2018 -0400
+
+    swap function switch away from temp
+
+commit 30c6ddd877796ec5cc10b1ef1cb2564c896d05d6
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Thu Oct 25 00:36:49 2018 -0400
+
+    imagemanip swap
+
+commit e10dcc0aee5640c0bd7250ee72b216b8b6df4b61
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Thu Oct 25 00:32:37 2018 -0400
+
+    attempt to fix swap
+
+commit 2d74a40e31dc0d619bc55db943098ca08fb85d77
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Thu Oct 25 00:29:47 2018 -0400
+
+    added first imageManip
+
+commit c3b7161bc27a4bcc28c4bb829aa17e91d59e1a13
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Thu Oct 25 00:16:07 2018 -0400
+
+    tried to fix zoom out
+
+commit 37feef421b3bcdefcdde1a5d8d4337b2c4544733
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Thu Oct 25 00:09:18 2018 -0400
+
+    added zoom out try one
+
+commit 2b1d03024181b75d3d742211beb33a55f091a7e6
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Wed Oct 24 23:31:27 2018 -0400
+
+    error checked files and finished project.c
+
+commit bb2462bb90debf70f00770933e5f8691224f35df
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Wed Oct 24 13:13:57 2018 -0400
+
+    added occlude first try
+
+commit 370454617839c88cb451345e6393baea82184625
+Merge: e59dbe5 ec39342
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Wed Oct 24 12:34:55 2018 -0400
+
+    merge hassle
+
+commit e59dbe5a24b41a050874a6383002d7d656f6f679
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Wed Oct 24 12:15:56 2018 -0400
+
+    small variable changes
+
+commit ec39342c3734eff203b64e948cc066b8d599f961
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Wed Oct 24 12:07:41 2018 -0400
+
+    minor modification to project
+
+commit 7ec8612dbd4ed6ee452b924efd0d4816187320b0
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Wed Oct 24 11:44:17 2018 -0400
+
+    added algs swap, grayscale, and contrast
+
+commit 6ad4964daf5e7fbf25140bccc31618f76c790c4f
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Wed Oct 24 11:08:08 2018 -0400
+
+    Fixed the read function in ppmIO
+
+commit e51bb03f16328b8351b743ba8641ddbdbd808346
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Tue Oct 23 23:36:11 2018 -0400
+
+    modified project and imageManip
+
+commit e4c30b7f2bf2542c155f08c77ce12ae3f634e4b0
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Tue Oct 23 22:21:15 2018 -0400
+
+    updated files
+
+commit a79dea133d5efa7c9bbb24609e4c7821270ebbc8
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Tue Oct 23 21:24:45 2018 -0400
+
+    added header files to imageManip.c
+
+commit 86dc2627aebd3b98cb4c6f91502c1c27ef66a33a
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Tue Oct 23 21:11:48 2018 -0400
+
+    ppmIO.c
+
+commit 618fb2a0e63f778950f32fa46e039a4af540ee7a
+Merge: 7dc2fa3 5e52a35
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Tue Oct 23 21:09:07 2018 -0400
+
+    Fixing merge
+
+commit 7dc2fa3df22eb9bf67adc549172f23fe0dc2ecf8
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Tue Oct 23 21:07:59 2018 -0400
+
+    ppmIO.c update
+
+commit 8af3c450a118484ecede57481e8958bb13f5b0e8
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Tue Oct 23 20:52:57 2018 -0400
+
+    Fixed ppmIO.c
+
+commit 5e52a354af0d166c14c400026a5ebc03d7091411
+Merge: 0416147 a4d7324
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Tue Oct 23 20:51:25 2018 -0400
+
+    dummy add unmerged paths
+
+commit a4d732482221257587c282dabaf9ff85c65c34a6
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Tue Oct 23 20:39:50 2018 -0400
+
+    Created new directory for data files
+
+commit 0416147866f2442ca8b35fd2d9c3318a83de9a44
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Tue Oct 23 20:34:27 2018 -0400
+
+    Switched from fopen to fread
+
+commit 8565b7783de0ce2111caaf86c84376e8cff3903e
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Tue Oct 23 20:19:39 2018 -0400
+
+    Updated Makefile
+
+commit 7a8c201957f2fc3410d1f25f88dea2f120bf9621
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Tue Oct 23 17:41:26 2018 -0400
+
+    Error checked main
+
+commit da1cf241b2b7998480bbcc938caa8cbff5c75b1a
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Mon Oct 22 23:46:28 2018 -0400
+
+    Modified main
+
+commit 9141cc825ba56906d072f6b814f5378ae05cbbd2
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Mon Oct 22 22:21:57 2018 -0400
+
+    Created MakeFile, added nika.ppm to repo, finished ppmIO.c write method
+
+commit f29c7d1d806e1d5f497fe85084f2d2bf7cde1860
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Fri Oct 19 22:11:46 2018 -0400
+
+    Roughly defined headers for imageManip
+
+commit a22a28d6528990d600066429eefd12fae18e92db
+Author: Joey Kern <jkern6@jhu.edu>
+Date:   Mon Oct 15 18:53:14 2018 -0400
+
+    first run through of read image function
+
+commit b49aff400a55a05d2a51a8376f991b81b2641796
+Author: Liam Creedon <lcreedo1@jhu.edu>
+Date:   Mon Oct 8 13:05:44 2018 -0400
+
+    Created files
