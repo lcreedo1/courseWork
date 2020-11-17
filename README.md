@@ -1,2 +1,1 @@
-# courseWork
-Programs created for courses
+Image manipulation code created collaboratively
